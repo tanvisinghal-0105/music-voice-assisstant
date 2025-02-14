@@ -16,9 +16,6 @@ This pattern showcases a real-time conversational RAG agent powered by Google Ge
 
 - **React Frontend** (in `frontend/` folder): Extends the [Multimodal live API Web Console](https://github.com/google-gemini/multimodal-live-api-web-console), with added features like **custom URLs** and **feedback collection**.
 
-![live api demo](https://storage.googleapis.com/github-repo/generative-ai/sample-apps/e2e-gen-ai-app-starter-pack/live_api_pattern_demo.gif)
-
-
 #### Prerequisites
 
 Before you begin, ensure you have the following installed: [Python 3.10+](https://www.python.org/downloads/), [Poetry](https://python-poetry.org/docs/#installation), [Node.js](https://nodejs.org/) (including npm), [Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
