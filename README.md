@@ -1,4 +1,4 @@
-# Multimodal Live Agent
+# Multimodal Live Music Assisstant
 
 This pattern showcases a real-time conversational RAG agent powered by Google Gemini. The agent handles audio, video, and text interactions while leveraging tool calling with a vector DB for grounded responses.
 
