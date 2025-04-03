@@ -78,3 +78,6 @@ Before you begin, ensure you have the following installed: [Python 3.10+](https:
 
    This command starts the frontend application, accessible at `http://localhost:3000`.
 
+## Disclaimer
+
+This repository is for demonstrative purposes only and is not an officially supported Google product.
